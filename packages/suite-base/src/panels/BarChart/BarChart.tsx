@@ -14,7 +14,7 @@
 
 import * as _ from "lodash-es";
 import { useCallback, useEffect, useLayoutEffect, useReducer, useState } from "react";
-import { BarChart as RechartsBarChart, Bar, Cell, Tooltip, Legend, ResponsiveContainer, XAxis, YAxis } from "recharts";
+import { BarChart as RechartsBarChart, Bar, Cell, Tooltip, ResponsiveContainer, XAxis, YAxis } from "recharts";
 
 // import Logger from "@lichtblick/log";
 import { parseMessagePath, MessagePath } from "@lichtblick/message-path";
